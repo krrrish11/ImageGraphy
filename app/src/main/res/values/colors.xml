@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dark theme background palette -->
+    <color name="bg_primary">#0D0F14</color>
+    <color name="bg_secondary">#141720</color>
+    <color name="card_bg">#1A1E2E</color>
+    <color name="card_surface">#222741</color>
+    <color name="divider_color">#1E2338</color>
+
+    <!-- Accent colors -->
+    <color name="accent_cyan">#00E5FF</color>
+    <color name="accent_cyan_dim">#1A3A42</color>
+    <color name="accent_purple">#9C6FFF</color>
+    <color name="accent_purple_dim">#2A1A4A</color>
+    <color name="accent_green">#00E676</color>
+
+    <!-- Text colors -->
+    <color name="text_primary">#EAECF4</color>
+    <color name="text_secondary">#8B92B3</color>
+    <color name="text_hint">#4D5470</color>
+
+    <!-- Special cards -->
+    <color name="info_card_bg">#0F1A20</color>
+    <color name="decode_hint_bg">#150F2A</color>
+    <color name="message_card_bg">#0F1A15</color>
+    <color name="error_color">#FF5252</color>
+
+    <!-- Chip colors -->
+    <color name="chip_encode_bg">#00395A</color>
+    <color name="chip_decode_bg">#2A1A4A</color>
+
+    <!-- Splash -->
+    <color name="splash_bg">#0D0F14</color>
+</resources>
